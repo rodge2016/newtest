@@ -5,7 +5,6 @@
 [![Total Downloads](https://poser.pugx.org/mageplaza/magento-2-blog-extension/downloads)](https://packagist.org/packages/mageplaza/magento-2-blog-extension)
 
 Demo: http://blog.demo.mageplaza.com/blog/
-
 ## 1. Documentation
 
 - Installation guide: https://www.mageplaza.com/install-magento-2-extension/
